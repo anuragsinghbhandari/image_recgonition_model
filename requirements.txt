@@ -1,0 +1,5 @@
+opencv-python
+numpy
+retina-face
+deepface
+flask
